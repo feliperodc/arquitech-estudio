@@ -1,7 +1,7 @@
 # Proyecto: Arquitech - Estudio Arquitectónico
 
 
-[Arquitech](https://github.com/feliperodc/arquitech-estudio.git)
+[Arquitech](https://feliperodc.github.io/arquitech-estudio/)
 
 **EN** 
 Arquitech is a fictional web that simulates an arquitechtonic office of design and creation of infrastructures. This webpage has dark/light mode, presentation, projects, social media, forms and location (Google Maps API).
