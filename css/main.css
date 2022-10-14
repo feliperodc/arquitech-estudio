@@ -87,7 +87,7 @@ header, main, footer{width: 100%;}
 
 .fondo{
     display: flex;
-	background-image: url(../assets/fotos/home-left.jpg);
+	background-image: url(../assets/fotos/home-left.webp);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
